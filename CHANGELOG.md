@@ -1,3 +1,7 @@
+### 1.8.2
+
+Add Devise 5 support
+
 ### 1.8.1
 
 Remove Rails 5.2 and 6.0 support

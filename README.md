@@ -1,3 +1,8 @@
+# NOTE
+
+This repo is a simple fork from the original Tiddle gem, which can be found at https://github.com/adamniedzielski/tiddle. The sole purpose of this fork is to update the dependencies and make it compatible with the latest version 5 of the Devise gem. The original code and functionality of Tiddle remain unchanged.
+
+
 # Tiddle
 
 Tiddle provides Devise strategy for token authentication in API-only Ruby on Rails applications. Its main feature is **support for multiple tokens per user**.
